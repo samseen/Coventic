@@ -1,0 +1,1 @@
+Opening the index.html opens the application.
